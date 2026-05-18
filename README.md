@@ -130,14 +130,14 @@ Each active customer was assigned a risk label using CASE WHEN logic:
 | File | Description |
 |---|---|
 | `README.md` | Project overview and findings |
-| `bank_churn_analysis.sql` | All SQL queries used in this project |
+| `bank_Custoermr_churn_analysis.sql` | All SQL queries used in this project |
 
 ---
 
 ## 👤 Author
 
 **Shinal Shafqat**  
-Aspiring Data Analyst | SQL • Excel • Power BI  
+Business Intelligence Developer| SQL • Excel • Power BI • Qlikview
 📧 Shine.daniel@outlook.com 
 🔗 https://www.linkedin.com/in/shinal-shafqat/?skipRedirect=true
 
