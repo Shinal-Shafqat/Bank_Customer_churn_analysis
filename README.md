@@ -130,7 +130,7 @@ Each active customer was assigned a risk label using CASE WHEN logic:
 | File | Description |
 |---|---|
 | `README.md` | Project overview and findings |
-| `bank_Custoermr_churn_analysis.sql` | All SQL queries used in this project |
+| `bank_Customer_churn_analysis.sql` | All SQL queries used in this project |
 
 ---
 
