@@ -8,9 +8,6 @@
 This project analyzes customer churn behavior at a bank using SQL.  
 The goal is to identify **which customers are leaving**, **why they are leaving**, and **which active customers are at risk** of leaving next.
 
-This type of analysis is widely used at banks like **RBC, TD, and Scotiabank** to build retention strategies and reduce customer loss.
-
----
 
 ## 📂 Dataset
 
